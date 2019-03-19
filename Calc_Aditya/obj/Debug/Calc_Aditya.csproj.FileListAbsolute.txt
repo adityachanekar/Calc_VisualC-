@@ -1,0 +1,10 @@
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\bin\Debug\Calc_Aditya.exe.config
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\bin\Debug\Calc_Aditya.exe
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\bin\Debug\Calc_Aditya.pdb
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.csprojAssemblyReference.cache
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.Calculator_Aditya.resources
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.Properties.Resources.resources
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.csproj.GenerateResource.cache
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.csproj.CoreCompileInputs.cache
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.exe
+D:\DIRECTORY 1\SE\Calc_Aditya\Calc_Aditya\obj\Debug\Calc_Aditya.pdb
